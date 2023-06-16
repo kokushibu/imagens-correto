@@ -1,0 +1,11 @@
+.imagem {
+    height: 300px;
+}
+
+.batata{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+body {
+    background-color: aqua;
+}
